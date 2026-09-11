@@ -1,2 +1,4 @@
 <?php
-echo "HEllO GIT";
+declare(strict_types=1);
+$title = "HEllO GIT";
+echo $title;
